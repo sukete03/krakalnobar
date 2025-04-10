@@ -1,0 +1,19 @@
+[
+  {
+    "name": "TVOne",
+    "group": "",
+    "tvg_id": "",
+    "tvg_logo": "",
+    "tvg_url": "",
+    "stream_url": "https://d1abp075u76pbq.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd"
+  },
+  {
+    "name": "RCTI HD",
+    "group": "",
+    "tvg_id": "",
+    "tvg_logo": "",
+    "tvg_url": "",
+    "stream_url": "https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd"
+  },
+  ...
+]
